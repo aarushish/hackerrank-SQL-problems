@@ -13,6 +13,8 @@ Solutions to Hackerrank SQL problems
 
 6. Name of employees
 
+7. The sum problem
+
 7. Revising the select query 2
 
 8. Revising the select query
