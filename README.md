@@ -13,43 +13,45 @@ Solutions to Hackerrank SQL problems
 
 6. Name of employees
 
-7. The sum problem
+7. The sum function
 
-7. Revising the select query 2
+8. The average function
 
-8. Revising the select query
+9. Revising the select query 2
 
-9. Select All
+10. Revising the select query
 
-10. Select by ID
+11. Select All
 
-11. The Count function
+12. Select by ID
 
-12. The PADS 
+13. The Count function
 
-13. Type of Triangle
+14. The PADS 
 
-14. Weather observation station 1
+15. Type of Triangle
 
-15. Weather observation station 10
+16. Weather observation station 1
 
-16. Weather observation station 11
+17. Weather observation station 10
 
-17. Weather observation station 12
+18. Weather observation station 11
 
-18. Weather observation station 3
+19. Weather observation station 12
 
-19. Weather observation station 4
+20. Weather observation station 3
 
-20. Weather observation station 5
+21. Weather observation station 4
 
-21. Weather observation station 6
+22. Weather observation station 5
 
-22. Weather observation station 7
+23. Weather observation station 6
 
-23. Weather observation station 8
+24. Weather observation station 7
 
-24. Weather observation station 9
+25. Weather observation station 8
+
+26. Weather observation station 9
 
 
 
